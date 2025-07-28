@@ -1,0 +1,16 @@
+jobcode,companycode,companyname,vacantseats,weight1,weight2,weight3,weight4,finalscore,requiredscore,job_title,location,salary
+JC001,CC001,ABC_Company,5,0.8,0.7,0.9,0.6,4.1,60,Software_Engineer,New_York,5000
+JC002,CC002,XYZ_Corporation,3,0.9,0.8,0.7,0.8,4.2,70,Data_Analyst,New_Delhi,500
+JC003,CC003,PQR_Enterprises,2,0.7,0.9,0.6,0.7,3.8,50,Product_Manager,Agra,9000
+JC004,CC004,DEF_Ltd.,4,0.6,0.7,0.8,0.9,3.6,50,UI/UX Designer,Indonesia,1000
+JC005,CC005,LMN_Solutions,6,0.8,0.7,0.6,0.8,4.1,63,Software_Developer,South_Korea,3000
+JC006,CC006,JKL_Systems,1,0.9,0.8,0.7,0.6,3.9,56,Data_Scientist,Seoul,4000
+JC007,CC007,UVW_Technologies,3,0.7,0.6,0.9,0.7,3.8,56,Business_Analyst,Mumbai,10000
+JC008,CC008,HIJ_Innovations,2,0.6,0.9,0.7,0.8,3.4,68,Project_Manager,Chennai,4500
+JC009,CC009,ABC_Company,4,0.8,0.7,0.6,0.7,3.8,69,Software_Engineer,New_York,7000
+JC010,CC010,XYZ_Corporation,5,0.9,0.8,0.7,0.6,3.9,70,Data_Analyst,Chennai,6000
+JC011,CC011,PQR_Enterprises,2,0.7,0.9,0.6,0.8,3.7,74,Product_Manager,Bangalore,1000
+JC012,CC012,DEF_Ltd.,3,0.6,0.7,0.8,0.9,3.6,62,UI/UX Designer,Bangalore,340000
+JC013,CC013,LMN_Solutions,6,0.8,0.7,0.6,0.8,3.9,69,Software_Developer,Andhra_Pradesh,12000
+JC014,CC014,ABC_Systems,4,0.9,0.8,0.7,0.6,3.8,66,Data_Scientist,Chennai,10000
+JC015,CC015,UVW_Technologies,1,0.7,0.6,0.9,0.7,3.9,68,Business_Analyst,Pune,3450
